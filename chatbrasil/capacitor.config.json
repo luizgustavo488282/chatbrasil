@@ -1,0 +1,10 @@
+{
+  "appId": "com.meuteste.debugapp",
+  "appName": "DebugAppLocal",
+  "webDir": "www",
+  "server": {
+    "allowNavigation": [
+      "chatbrasil.qzz.io"
+    ]
+  }
+}
