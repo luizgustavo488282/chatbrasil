@@ -1,0 +1,9 @@
+{
+  "appId": "io.qzz.chatbrasil",
+  "appName": "Chat Brasil",
+  "webDir": "www",
+  "server": {
+    "url": "https://chatbrasil.qzz.io",
+    "allowNavigation": ["chatbrasil.qzz.io"]
+  }
+}
